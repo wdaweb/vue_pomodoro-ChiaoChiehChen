@@ -23,4 +23,5 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [精神時光屋個人檔案](https://challenge.thef2e.com/)
+- [精神時光屋個人檔案](https://challenge.thef2e.com/user/4493?schedule=4597#works-4597)
+- [採用UI設計稿](https://challenge.thef2e.com/user/2983)
